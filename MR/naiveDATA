@@ -1,0 +1,15 @@
+1,Sunny,Hot,High,Weak,NO
+2,Sunny,Hot,High,Strong,NO
+3,Overcast,Hot,High,Weak,YES
+4,Rain,Mild,High,Weak,YES
+5,Rain,Cool,Normal,Weak,YES
+6,Rain,Cool,Normal,Strong,NO
+7,Overcast,Cool,Normal,Strong,YES
+8,Sunny,Mild,High,Weak,NO
+9,Sunny,Cool,Normal,Weak,YES
+10,Rain,Mild,Normal,Weak,YES
+11,Sunny,Mild,Normal,Strong,YES
+12,Overcast,Mild,High,Strong,YES
+13,Overcast,Hot,Normal,Weak,YES
+14,Rain,Mild,High,Strong,NO
+
